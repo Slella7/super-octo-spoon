@@ -12,17 +12,17 @@
 
 '''
 
-first_name = "John"
-last_name = "Doe"
+first_name = "Sai"
+last_name = "B"
 age = 25
 
-height_cm = 180
+height_cm = 130
 
-weight = 100
+weight = 50
 
 marital_status = False
 
-height_ft = "6'2\""
+height_ft = "5'2\""
 
 print(first_name + " " + last_name, age,
       height_cm, weight, marital_status, height_ft)
